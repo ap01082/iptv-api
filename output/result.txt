@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-18 06:29:30,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
+2026-04-18 18:33:01,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
@@ -532,9 +532,6 @@ CCTV-17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4
 ☘️浙江频道,#genre#
 浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 
 ☘️北京频道,#genre#
 北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
@@ -634,6 +631,7 @@ CCTV-17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225660/index.m3u8
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 沐川综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
+荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 
 ☘️陕西频道,#genre#
 陕西新闻资讯,https://mgtv.ottiptv.cc/migu/956909289.m3u8?migutoken=d4f3f5a8bf93821548ae70c6bd12860956574c27b3b1ef52c88c8e3d72259b1727a6dbf5d6a5de850afac4c7ffe2f2124bb3b558a89906cd32ccc8913f0f22dd74b7a84514b6015bff75903d9c
@@ -733,7 +731,6 @@ CCTV-17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
-西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 
 ☘️黑龙江频道,#genre#
 黑龙江文体,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
@@ -852,6 +849,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8
+七龙珠,https://live.metshop.top/huya/11601966
 猫和老鼠,https://live.metshop.top/huya/11352879
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
