@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 20:34:45,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+2026-05-12 06:45:15,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 📺央视频道,#genre#
 
@@ -26,7 +26,6 @@
 
 ☘️四川频道,#genre#
 沐川综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
-荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 
 ☘️福建频道,#genre#
 
